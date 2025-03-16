@@ -1,2 +1,9 @@
 # Year-3-Projects
-I used python to develop "MODELS THAT DESCRIBE THE DEGENERATE MATTER IN STARS".
+
+This directory contains two pdfs files showing my 3rd year university projects during my Theoretical Physics Degree.
+
+lvl3 advanced lab.pdf:
+
+
+
+lvl3 computing_project.pdf:
